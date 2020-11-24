@@ -1,0 +1,13 @@
+{
+  "name": "dvdbounce",
+  "main": "index.html",
+  "window": {
+    "title": "DVD Demo",
+    "toolbar": false,
+    "frame": true,
+    "width": 1280,
+    "height": 720,
+    "resizable": true,
+    "icon": "./icon.PNG"
+  }
+}

@@ -1,0 +1,51 @@
+1. When the game starts up, show a sprite - that’s 50x50 pixels in size - at the center of the screen that has a resolution of 1280x720.
+  "That ain't my style," said Casey. "Strike one!" the umpire said.
+
+2. The box should start moving in a random x and y direction at a rate of 1 pixel per simulation tick (the x and y directions should be either 1.0, -1.0 chosen randomly at start). The speed of your box simulation should be 60 hertz (60 "ticks" per second).
+
+Done
+
+3. The box should bounce around within the bounds of the 1280x720 canvas.
+
+Done
+
+4. When the box hits the edge, it should change to a different random color (the box should not be the same color after hitting an edge).
+
+Done
+
+5. If you press the space key, the box should stop moving. When you press the space key again, the box should resume moving in the direction it was going.
+
+Done
+
+6. Your game should support PC, Mac, Linux, Web at least (iOS, and Android for extra credit).
+
+Done
+
+7. The exe/binary icon for the game should be a square with the color of your choosing.
+
+
+
+8. Release your game to Itch.io (PC, Mac, Linux, Web); and for extra credit Test Flight (iOS); and Google Play Beta Testing (Android). If you can't deploy to all platforms, make note of that in the readme.
+License and Documentation
+
+
+
+To be awarded a Pro subscription, you need to create a GitHub repo and associate a permissive license to the source: eg MIT, Public Domain, LGPL, BSD2, Apache. Please include a readme too so that people know how to deploy to each platform your engine of choice supports.
+
+
+ Information in the Readme
+Please add the following information in the readme (whatever you feel is relevent).
+- How many proud lines of code did you have to write?
+- How many different game engine concepts (eg: physics bodies, matrices, events, transforms, camera) did you have to be knowledgeable of before you could build your implementation?
+- Did you have to use classes, inheritance, structs or any other overly complex data structures? Why does the engine you are using require these complexities for such a trivial game?
+- How many times did you have to start and stop execution? What was the feedback loop like when you were developing?
+- Were you required to use a dedicated IDE? How long did it take you to get familiar with the IDE when you first started off?
+- Is the source code for the game easily sharable? If you have to share more than just one file and some sprites, what else did you have to provide? What do these ancillary files represent?
+- How difficult was it to set up a 720p canvas?
+- How difficult was it to export to "all the platforms"?
+- What was the output binary size?
+- Be sensitive to what pains the engine of your choice puts you through to build the simplest of 2D game and ask yourself if it's acceptable. What could the engine have done better?
+Note
+I want proud lines of code. 
+It's important to emphasize the word "proud" because your implementation should be something you wouldn't be embarrassed to show someone else. The implementation shouldn't be an attempt to write as few lines as possible or trying to be "clever" in any way.
+Offer expires 10pm CST ^_^
