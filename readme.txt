@@ -48,7 +48,7 @@ Trivial if you consider that "all the platforms" have browsers built in. Frustra
 
 Output size:
 
-Browser version as required by Itch was 7kb
+7kb before uploading to github, 36kb after uploading to github. This is why I don't use git.
 
 Pains:
 
