@@ -63,37 +63,3 @@ Layout - my lack of experience with css caused quite a lot of difficulty once we
 Color - the way I handled coloring the square was a bit janky, due to my lack of experience with SVG. The most direct way to do it was to concatenate color values with the style string. This is very likely not the engine's fault.
 
 Recentering and bounding - had to calculate the position of the box's edges to know when to bounce, had to calculate ULHC to change the position of the graphic. Acceptable, but not optimal.
-
-- How many proud lines of code did you have to write?
-DONE
-
-- How many different game engine concepts (eg: physics bodies, matrices, events, transforms, camera) did you have to be knowledgeable of before you could build your implementation?
-
-DONE
-
-- Did you have to use classes, inheritance, structs or any other overly complex data structures? Why does the engine you are using require these complexities for such a trivial game?
-
-DONE
-
-- How many times did you have to start and stop execution? What was the feedback loop like when you were developing?
-
-DONE
-
-- Were you required to use a dedicated IDE? How long did it take you to get familiar with the IDE when you first started off?
-
-DONE
-
-- Is the source code for the game easily sharable? If you have to share more than just one file and some sprites, what else did you have to provide? What do these ancillary files represent?
-
-DONE
-
-- How difficult was it to set up a 720p canvas?
-
-DONE
-
-- How difficult was it to export to "all the platforms"?
-
-DONE
-
-- What was the output binary size?
-- Be sensitive to what pains the engine of your choice puts you through to build the simplest of 2D game and ask yourself if it's acceptable. What could the engine have done better?
